@@ -11,10 +11,10 @@
 * [hyo2_soundspeed](https://github.com/hydroffice/hyo2_soundspeed) (_python_) - a [HydrOffice][1] library to read, write, and manage sound speed profiles from a diverse set of formats
 * [gpsparser](https://github.com/valschmidt/gpsparser) (_python_) - a Python GPS NMEA string parsing module.
 
-### Data Analysis
+### Data Analysis/Processing
 
 * [pandas](https://pandas.pydata.org/) (_python_) - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool for python
-
+* [MB-System](https://github.com/dwcaress/MB-System) (_C_/_C++_) - an open source software package for the processing and display of bathymetry and backscatter imagery data derived from multibeam, interferometry, and sidescan sonars.
 ### Aquisition Interfacing
 
 * [hyo2_kng](https://github.com/hydroffice/hyo2_kng) (_python_) - a [HydrOffice][1] library and apps for Kongsberg Maritime's SIS data interaction
