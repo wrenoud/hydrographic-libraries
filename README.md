@@ -1,5 +1,14 @@
 # FOSS for Hydrographic Programmers
 
+### Hydrographic/Oceanographic Organizations on GitHub
+
+* [HydrOffice][1]
+* [ausseabed][2]
+* [noaa-ocs-hydrography][3]
+* [Rijkswaterstaat][4]
+* [UK Hydrographic Office][5]
+* [pyoceans][6]
+
 ### Data Readers
 
 * [GDAL](https://pypi.org/project/GDAL/) (_python_) - this is the pypi library for [GDAL](https://github.com/OSGeo/gdal) (_C_/_C++_), a translator library for raster and vector geospatial data formats
@@ -31,16 +40,10 @@
 * [pyproj](https://github.com/pyproj4/pyproj) (_python_) - Python interface to PROJ (cartographic projections and coordinate transformations library)
 * [enc_dump](https://github.com/valschmidt/enc_dump) (_python_) - A python tool for extracting data from US Electronic Nautical Charts (based on GDAL)
 
-### Hydrographic Organizations on GitHub
-
-* [HydrOffice][1]
-* [ausseabed][2]
-* [noaa-ocs-hydrography][3]
-* [Rijkswaterstaat][4]
-* [UK Hydrographic Office][5]
 
 [1]: https://github.com/hydroffice
 [2]: https://github.com/ausseabed
 [3]: https://github.com/noaa-ocs-hydrography
 [4]: https://github.com/Rijkswaterstaat
 [5]: https://github.com/UKHO
+[6]: https://github.com/pyoceans
