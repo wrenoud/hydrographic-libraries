@@ -10,6 +10,7 @@
 * [hyo2_bag](https://github.com/hydroffice/hyo2_bag) (_python_) - a [HydrOffice][1] library for the BAG format
 * [hyo2_soundspeed](https://github.com/hydroffice/hyo2_soundspeed) (_python_) - a [HydrOffice][1] library to read, write, and manage sound speed profiles from a diverse set of formats
 * [gpsparser](https://github.com/valschmidt/gpsparser) (_python_) - a Python GPS NMEA string parsing module.
+* [gsfpy](https://github.com/UKHO/gsfpy) (_python_) - Python wrapper for the C implementation of the Generic Sensor Format library.
 
 ### Data Analysis/Processing
 
@@ -36,8 +37,10 @@
 * [ausseabed][2]
 * [noaa-ocs-hydrography][3]
 * [Rijkswaterstaat][4]
+* [UK Hydrographic Office][5]
 
 [1]: https://github.com/hydroffice
 [2]: https://github.com/ausseabed
 [3]: https://github.com/noaa-ocs-hydrography
 [4]: https://github.com/Rijkswaterstaat
+[5]: https://github.com/UKHO
