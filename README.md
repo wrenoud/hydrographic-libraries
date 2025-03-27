@@ -8,6 +8,7 @@
 * [Rijkswaterstaat][4]
 * [UK Hydrographic Office][5]
 * [pyoceans][6]
+* [OpenNavigationSurface][7]
 
 ### Data Readers
 
@@ -16,6 +17,7 @@
 * [ausseabed/pyall](https://github.com/ausseabed/pyall) (_python_) - an [ausseabed][2] native python reader for Kongsberg ALL file format (note that this is a maintained fork of [pktrigg/pyall](https://github.com/pktrigg/pyall))
 * [valschmidt/kmall](https://github.com/valschmidt/kmall) (_python_) - a native python reader for Kongsberg KMALL file format (note that there is also a fork [ausseabed/kmall](https://github.com/ausseabed/kmall) maintained by [ausseabed][2])
 * [pyxtf](https://github.com/oysstu/pyxtf) (_python_) - A python library for reading and writing eXtended Triton Format (XTF) files
+* [OpenNavigationSurface/BAG](https://github.com/OpenNavigationSurface/BAG) (_python_/_C_/_C++_) - the reference implementation for the BAG format maintained by [OpenNavigationSurface][7], GDAL includes this reference implementation.
 * [hyo2_bag](https://github.com/hydroffice/hyo2_bag) (_python_) - a [HydrOffice][1] library for the BAG format
 * [hyo2_soundspeed](https://github.com/hydroffice/hyo2_soundspeed) (_python_) - a [HydrOffice][1] library to read, write, and manage sound speed profiles from a diverse set of formats
 * [gpsparser](https://github.com/valschmidt/gpsparser) (_python_) - a Python GPS NMEA string parsing module.
@@ -49,3 +51,4 @@
 [4]: https://github.com/Rijkswaterstaat
 [5]: https://github.com/UKHO
 [6]: https://github.com/pyoceans
+[7]: https://github.com/OpenNavigationSurface
