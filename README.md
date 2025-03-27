@@ -30,7 +30,7 @@
 ### Aquisition Interfacing
 
 * [hyo2_kng](https://github.com/hydroffice/hyo2_kng) (_python_) - a [HydrOffice][1] library and apps for Kongsberg Maritime's SIS data interaction
-* [7k](https://github.com/Teledyne-Marine/7k) (_C/C++_) - Teledyne Marine 7k protocol for marine sensor interfacing
+* [7k](https://github.com/Teledyne-Marine/7k) (_C/C++_) - Teledyne Marine 7k protocol for marine sensor interfacing (requires access aproval, see [Teledyne-Marine/access](https://github.com/Teledyne-Marine/access))
 
 ### Data Download
 
